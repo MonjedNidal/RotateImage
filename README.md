@@ -1,6 +1,6 @@
 # RotateImage
 
-This is my solution for the problem 48. Rotate Image (Medium) in leetCode
+This is my solution for the problem <b>48. Rotate Image (Medium) in leetCode</b>
 
 
 
